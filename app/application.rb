@@ -12,7 +12,7 @@ class Greeting
     end
 
     resp.finish
-    
+
   end
 
 end
